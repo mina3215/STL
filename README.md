@@ -19,3 +19,13 @@
      - [[자료구조] 레드블랙트리(RedBlackTree)](https://mina3215.tistory.com/52)
 
 2. **vector** STL
+
+3. **algorithm STL**
+   
+   - [next_permutation](./algorithm/next_permutation.cpp)
+   
+   - 이론
+     
+     - [next_permutation 순열 조합](https://mina3215.tistory.com/44)
+     
+     - 
