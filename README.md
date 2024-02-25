@@ -28,4 +28,4 @@
      
      - [next_permutation 순열 조합](https://mina3215.tistory.com/44)
      
-     - 
+     - e 
